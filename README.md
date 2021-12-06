@@ -1,4 +1,4 @@
-# web_crawler
+# dc_crawler
 python 기반의 웹 크롤러입니다.  
 default : dcinside.com  
 requirements : `requests, bs4`
