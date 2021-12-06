@@ -23,7 +23,7 @@ File Path = C:\Users\Administrator\Desktop # 파일 경로 출력
 Saving File = 갤러리-yyyy_mm_dd-hh_mm # 파일 이름 출력
 End Of Process # 작업 종료
 ```
-## Output Data Example
+## Output Example
 ```
 총 글수: 500
 랭킹 닉네임    글  지분(%)
