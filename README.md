@@ -3,9 +3,9 @@ python 기반의 웹 크롤러입니다.
 default : dcinside.com  
 requirements : `requests, bs4`
 ## Reference
-1. 초록색 Code -> Download ZIP으로 다운로드.
+1. 다운로드 : https://github.com/Dev-Blackout/dc_crawler/releases
 2. requests, bs4 설치(cmd.exe)  
-python download : https://www.python.org/downloads/  
+python  : https://www.python.org/downloads/  
 ```
 pip install --upgrade requests
 pip install --upgrade bs4
