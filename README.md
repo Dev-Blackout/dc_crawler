@@ -35,4 +35,4 @@ End Of Process # 작업 종료
 ... 
 ```
 ## Others
-기존에 짜둔 title을 포함한 데이터를 .csv 파일로 output하는 코드 추가 예정 v 1.1
+- v1.1 title을 포함한 데이터를 .csv 파일로 output하는 코드 추가 예정
