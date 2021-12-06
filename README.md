@@ -5,7 +5,7 @@ requirements : `requests, bs4`
 ## Reference
 1. 다운로드 : https://github.com/Dev-Blackout/dc_crawler/releases
 2. requests, bs4 설치(cmd.exe)  
-python  : https://www.python.org/downloads/  
+python : https://www.python.org/downloads/  
 ```
 pip install --upgrade requests
 pip install --upgrade bs4
