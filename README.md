@@ -36,3 +36,4 @@ End Of Process # 작업 종료
 ```
 ## Others
 - v1.1 title을 포함한 데이터를 .csv 파일로 output하는 코드 추가 예정
+- 정확하게 입력했을 경우에도 Wrong Gallery가 출력된다면 1.1.1.1과 같은 프록시 사용바람 
